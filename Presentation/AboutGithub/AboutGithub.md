@@ -30,10 +30,22 @@ D5 渡部丈留
 
 ---
 
+### こんなことをしなくても良い!
 
+```
+-rwxrwxrwx  1 tabe  staff       0  6  3 11:07 main.py
+-rwxrwxrwx  1 tabe  staff       0  6  3 11:08 main_tmp_test.py
+-rwxrwxrwx  1 tabe  staff       0  6  3 11:07 main_v1.py
+-rwxrwxrwx  1 tabe  staff       0  6  3 11:07 main_v2.py
+-rwxrwxrwx  1 tabe  staff       0  6  3 11:07 main_v3a.py
+-rwxrwxrwx  1 tabe  staff       0  6  3 11:07 main_v3b.py
+-rwxrwxrwx  1 tabe  staff       0  6  3 11:08 main_v5_last.py
+-rwxrwxrwx  1 tabe  staff       0  6  3 11:08 main_v9_last_last.py
+-rwxrwxrwx  1 tabe  staff       0  6  3 11:08 main_importantBackup.py
+-rwxrwxrwx  1 tabe  staff       0  6  3 11:08 main_NOT_ERASE_BAK.py
+```
 
 ---
 
 ## まずはGitを使ってみる
 
----
