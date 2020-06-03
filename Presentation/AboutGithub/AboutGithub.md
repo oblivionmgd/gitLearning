@@ -47,5 +47,81 @@ D5 渡部丈留
 
 ---
 
-## まずはGitを使ってみる
+### gitを実際に使ってみよう！
+
+---
+
+#### 3番までやりましたか？
+https://learngitbranching.js.org/?locale=ja
+
+---
+
+### 実際にGithubと連携してみる！
+
+---
+
+### 1. git clone
+- プロジェクトを自分の環境にコピーする
+- 文字通りclone
+
+---
+
+#### 1. git clone
+
+自分がいるディレクトリにダウンロードされる
+```
+git clone https://github.com/tabe0000/learningGithub
+#git clone リポジトリURL
+```
+
+---
+
+### 2. git branch
+- 自分専用のブランチを切る
+- (branch = 枝)
+
+---
+
+### 2. git branch
+ブランチを切る
+
+```
+git branch addMyPythonFile
+#git branch リポジトリ名
+```
+
+---
+
+### 2. git branch
+
+pushする前にファイルを追加してcommit
+```bash
+touch tabe0000.py
+git add ./
+git commit -m 'add myfile'
+```
+
+---
+
+### 3. git push
+- 自分のブランチにPushする
+
+---
+
+### 4. Pull Requestを送る
+
+---
+
+### 4. 承認してmerge
+
+---
+
+### 5. git pull
+- 自分の環境を最新版に更新する
+
+---
+
+### ぶっちゃけ使ってみたほうが早い
+
+--- 
 
