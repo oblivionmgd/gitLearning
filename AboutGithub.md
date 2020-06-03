@@ -84,18 +84,17 @@ git clone https://github.com/tabe0000/learningGithub
 
 ### 2. git branch
 ブランチを切る
-
 ```
-git branch addMyPythonFile
+git branch hogehoge
 #git branch リポジトリ名
 ```
 
 ---
 
 ### 2. git branch
-
 pushする前にファイルを追加してcommit
 ```bash
+git checkout hogehoge
 touch tabe0000.py
 git add ./
 git commit -m 'add myfile'
@@ -104,15 +103,21 @@ git commit -m 'add myfile'
 ---
 
 ### 3. git push
-- 自分のブランチにPushする
+- 自分のブランチにをPushする
+```
+git push origin hogehoge
+```
 
 ---
 
 ### 4. Pull Requestを送る
+1. Github.com に移動
+2. PRを作成
 
 ---
 
-### 4. 承認してmerge
+### 5. 承認してmerge
+1. 承認してもらったら完了！
 
 ---
 
@@ -121,7 +126,4 @@ git commit -m 'add myfile'
 
 ---
 
-### ぶっちゃけ使ってみたほうが早い
-
---- 
 
